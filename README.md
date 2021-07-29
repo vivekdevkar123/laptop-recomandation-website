@@ -17,11 +17,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Contact
-[Linkedin](https://www.linkedin.com/in/vivekdevkar123)
-
-[Twitter](https://www.twitter.com/vivekdevkar123)
-
 # screenshots
 
 ### screenshot 1
@@ -32,3 +27,9 @@ Please make sure to update tests as appropriate.
 
 ### screenshot 3
 ![screenshot](/screenshot/screenshot_03.png)
+
+
+## Contact
+[Linkedin](https://www.linkedin.com/in/vivekdevkar123)
+
+[Twitter](https://www.twitter.com/vivekdevkar123)
